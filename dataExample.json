@@ -1,0 +1,999 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 89,
+    "credits_used_this_request": 1
+  },
+  "search_parameters": {
+    "search_type": "places",
+    "url": "https://www.google.com/maps/search/books/@43.4354116,-79.6160457,10z",
+    "engine": "google"
+  },
+  "search_metadata": {
+    "created_at": "2023-05-07T15:47:56.420Z",
+    "processed_at": "2023-05-07T15:48:02.323Z",
+    "total_time_taken": 5.9,
+    "engine_url": "https://www.google.com/maps/search/books/@43.4354116,-79.6160457,10z?tbm=lcl",
+    "html_url": "https://api.valueserp.com/search?api_key=2E60ECECCC2F4069B5420F75374797F5&search_type=places&url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fbooks%2F%4043.4354116%2C-79.6160457%2C10z&engine=google&output=html",
+    "json_url": "https://api.valueserp.com/search?api_key=2E60ECECCC2F4069B5420F75374797F5&search_type=places&url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fbooks%2F%4043.4354116%2C-79.6160457%2C10z&engine=google&output=json"
+  },
+  "search_information": {
+    "original_query_yields_zero_results": false
+  },
+  "places_results": [
+    {
+      "title": "Brampton books",
+      "place_id": "ChIJXcgBlMcVK4gR3zUeNcce4lw",
+      "data_cid": "6692945837164475871",
+      "address": "45 McCaul St, Brampton, ON L6V 1J1, Kanada",
+      "link": "http://www.bramptonbooks.ca/",
+      "rating": 4.9,
+      "reviews": 14,
+      "phone": "+1 437-376-0100",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "09–23"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "09–23"
+          },
+          {
+            "name": "antradienis",
+            "value": "09–23"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "09–23"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "09–23"
+          },
+          {
+            "name": "penktadienis",
+            "value": "09–23"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "09–23"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.695815499999995,
+        "longitude": -79.7564732
+      },
+      "position": 1
+    },
+    {
+      "title": "Seekers Books",
+      "place_id": "ChIJq1tr_5M0K4gRUrOjC86tYLU",
+      "data_cid": "5377106854610226350",
+      "address": "509 Bloor St W, Toronto, ON M5S 1Y2, Kanada",
+      "rating": 4.7,
+      "reviews": 395,
+      "phone": "+1 416-925-1982",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas",
+        "Retų knygų parduotuvė"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "12–21"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "12–21"
+          },
+          {
+            "name": "antradienis",
+            "value": "12–21"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "12–21"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "12–21"
+          },
+          {
+            "name": "penktadienis",
+            "value": "12–21"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "12–21"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.6655969,
+        "longitude": -79.4084148
+      },
+      "position": 2
+    },
+    {
+      "title": "BMV Books",
+      "place_id": "ChIJW1ipw8o0K4gRxftM6jm0J-o",
+      "data_cid": "1574091383905649723",
+      "address": "10 Edward St, Toronto, ON M5G 1C9, Kanada",
+      "link": "http://www.bmvbooks.com/",
+      "rating": 4.6,
+      "reviews": 992,
+      "phone": "+1 416-977-3087",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "12–18"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "11–19"
+          },
+          {
+            "name": "antradienis",
+            "value": "11–19"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "11–19"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "11–19"
+          },
+          {
+            "name": "penktadienis",
+            "value": "11–19"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "11–19"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.657016899999995,
+        "longitude": -79.3817442
+      },
+      "position": 3
+    },
+    {
+      "title": "The Book Wardrobe",
+      "place_id": "ChIJBy_VXblBK4gRdVw4k-e3V8Y",
+      "data_cid": "4154649925990720395",
+      "address": "223 Queen St S, Mississauga, ON L5M 1L6, Kanada",
+      "link": "http://www.thebookwardrobe.com/",
+      "rating": 4.8,
+      "reviews": 71,
+      "phone": "+1 905-997-2400",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas",
+        "Dovanų parduotuvė"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "12–16"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "antradienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "11–16"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "11–16"
+          },
+          {
+            "name": "penktadienis",
+            "value": "11–16"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "13–16"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.580909399999996,
+        "longitude": -79.71221589999999
+      },
+      "position": 4
+    },
+    {
+      "title": "Love Books?",
+      "place_id": "ChIJz_Vw1VKbLIgRyUJq9_E51sI",
+      "data_cid": "4407271473934613815",
+      "address": "763 Barton St E, Hamilton, ON L8L 6V7, Kanada",
+      "link": "https://lmvhamilton.wixsite.com/lovebooks-hamilton",
+      "rating": 4.5,
+      "reviews": 22,
+      "phone": "+1 289-396-9741",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "09–17"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "09–17"
+          },
+          {
+            "name": "antradienis",
+            "value": "09–17"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "09–17"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "09–17"
+          },
+          {
+            "name": "penktadienis",
+            "value": "09–17"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "09–17"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.255580699999996,
+        "longitude": -79.8319954
+      },
+      "position": 5
+    },
+    {
+      "title": "Type Books",
+      "place_id": "ChIJtUYmCeM0K4gRAqNppxmS5Zs",
+      "data_cid": "7213198589283425534",
+      "address": "883 Queen St W, Toronto, ON M6J 1G5, Kanada",
+      "link": "https://typebooks.ca/",
+      "rating": 4.7,
+      "reviews": 321,
+      "phone": "+1 416-366-8973",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "11–18"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "antradienis",
+            "value": "10–18"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "10–19"
+          },
+          {
+            "name": "penktadienis",
+            "value": "10–19"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "10–19"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.6455115,
+        "longitude": -79.41161439999999
+      },
+      "position": 6
+    },
+    {
+      "title": "Type Books",
+      "place_id": "ChIJ3ZT3QWUzK4gRVxUyUH4S0ps",
+      "data_cid": "7218686919000844969",
+      "address": "427 Spadina Rd, Toronto, ON M5P 2W3, Kanada",
+      "link": "http://www.typebooks.ca/",
+      "rating": 4.7,
+      "reviews": 50,
+      "phone": "+1 416-487-8973",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "12–17"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "antradienis",
+            "value": "10–18"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "penktadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "10–18"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.689003299999996,
+        "longitude": -79.4126775
+      },
+      "position": 7
+    },
+    {
+      "title": "Epic Books",
+      "place_id": "ChIJ9y7eLW6bLIgR9fJaCjqlDuU",
+      "data_cid": "1941432720649686283",
+      "address": "226 Locke St S, Hamilton, ON L8P 4B7, Kanada",
+      "link": "https://epicbooks.ca/?q=h",
+      "rating": 4.8,
+      "reviews": 123,
+      "phone": "+1 905-525-6538",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "12–16"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "antradienis",
+            "value": "10–18"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "penktadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "10–17"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.253979799999996,
+        "longitude": -79.8863796
+      },
+      "position": 8
+    },
+    {
+      "title": "Type Books",
+      "place_id": "ChIJ_8OfUBg1K4gRvSEQiDiyM1o",
+      "data_cid": "6499734643096428989",
+      "address": "2887 Dundas St W, Toronto, ON M6P 1Y9, Kanada",
+      "link": "http://www.typebooks.ca/",
+      "rating": 4.8,
+      "reviews": 103,
+      "phone": "+1 416-761-9973",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "12–18"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "antradienis",
+            "value": "10–18"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "penktadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "10–18"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.665312,
+        "longitude": -79.4656751
+      },
+      "position": 9
+    },
+    {
+      "title": "BMV Books",
+      "place_id": "ChIJL9ShtDwzK4gRuDyHT3015ws",
+      "data_cid": "857713066358815928",
+      "address": "2289 Yonge Street Eglinton, ½ block North of Eglinton, East side of Yonge, Toronto, ON M4P 2C6, Kanada",
+      "link": "https://www.bmvbooks.com/pages/location-uptown",
+      "rating": 4.6,
+      "reviews": 692,
+      "phone": "+1 416-482-6002",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "11–21"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "11–20"
+          },
+          {
+            "name": "antradienis",
+            "value": "11–20"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "11–20"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "11–21"
+          },
+          {
+            "name": "penktadienis",
+            "value": "11–21"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "11–21"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.707508999999995,
+        "longitude": -79.3982039
+      },
+      "position": 10
+    },
+    {
+      "title": "Another Story Bookshop",
+      "place_id": "ChIJ2TbypjU0K4gRU5iubk6q1Hg",
+      "data_cid": "8706771233455118419",
+      "address": "315 Roncesvalles Ave, Toronto, ON M6R 2M6, Kanada",
+      "link": "http://anotherstory.ca/",
+      "rating": 4.8,
+      "reviews": 241,
+      "phone": "+1 416-462-1104",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas",
+        "Vaikų knygų parduotuvė"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "10–19"
+          },
+          {
+            "name": "antradienis",
+            "value": "10–19"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "10–19"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "10–19"
+          },
+          {
+            "name": "penktadienis",
+            "value": "10–19"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "10–18"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.6485482,
+        "longitude": -79.4497583
+      },
+      "position": 11
+    },
+    {
+      "title": "King W. Books",
+      "place_id": "ChIJLa0Y6_6bLIgRFzz-JQCCOls",
+      "data_cid": "6573709543249689623",
+      "address": "1060 King St W, Hamilton, ON L8S 1L7, Kanada",
+      "link": "https://kingwestbooks.com/",
+      "rating": 4.8,
+      "reviews": 70,
+      "phone": "+1 905-527-2442",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "12–16"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "antradienis",
+            "value": "11–18"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "11–18"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "11–18"
+          },
+          {
+            "name": "penktadienis",
+            "value": "11–18"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "10–17"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.2613506,
+        "longitude": -79.9075383
+      },
+      "position": 12
+    },
+    {
+      "title": "Doug Miller Books",
+      "place_id": "ChIJh7QFn400K4gRKTG0Rsy0VLM",
+      "data_cid": "5524592053424213719",
+      "address": "650 Bloor St W, Toronto, ON M6G 1K9, Kanada",
+      "link": "http://www.dougmillerbooks.com/",
+      "rating": 4.7,
+      "reviews": 367,
+      "phone": "+1 416-482-5665",
+      "category": "Naudotų knygų parduotuvė",
+      "all_categories": [
+        "Naudotų knygų parduotuvė",
+        "Vaikų knygų parduotuvė",
+        "Retų knygų parduotuvė"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "10–19"
+          },
+          {
+            "name": "antradienis",
+            "value": "10–19"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "10–19"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "10–20"
+          },
+          {
+            "name": "penktadienis",
+            "value": "10–20"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "10–20"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.6643512,
+        "longitude": -79.4153836
+      },
+      "position": 13
+    },
+    {
+      "title": "The City & The City Books",
+      "place_id": "ChIJC3Gk0EyZLIgRUMfSOJGbXko",
+      "data_cid": "5358891654643369808",
+      "address": "181 Ottawa St N, Hamilton, ON L8H 3Z4, Kanada",
+      "link": "http://www.thecityandthecitybooks.ca/",
+      "rating": 4.9,
+      "reviews": 64,
+      "phone": "+1 289-389-2477",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "11–17"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "antradienis",
+            "value": "10–18"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "penktadienis",
+            "value": "10–18"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "10–18"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.2477026,
+        "longitude": -79.8178077
+      },
+      "position": 14
+    },
+    {
+      "title": "The Book Exchange",
+      "place_id": "ChIJLZkXCJ82K4gRI1l10TH0-x4",
+      "data_cid": "2232646535096916259",
+      "address": "3111 Dundas St W, Toronto, ON M6P 1Z9, Kanada",
+      "rating": 4.6,
+      "reviews": 54,
+      "phone": "+1 416-604-9270",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas",
+        "Naudotų knygų parduotuvė"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "12–17"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "antradienis",
+            "value": "12–18"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "12–18"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "12–18"
+          },
+          {
+            "name": "penktadienis",
+            "value": "12–18"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "12–18"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.665413699999995,
+        "longitude": -79.4732916
+      },
+      "position": 15
+    },
+    {
+      "title": "A Novel Spot Bookshop",
+      "place_id": "ChIJCQA-OwM3K4gRNtVqJNKaj64",
+      "data_cid": "5868301562095676106",
+      "link": "http://www.novelspot.ca/",
+      "rating": 4.9,
+      "reviews": 48,
+      "phone": "+1 416-233-2665",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas",
+        "Service establishment"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "11–15"
+          },
+          {
+            "name": "antradienis",
+            "value": "11–15"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "penktadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "11–17"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 62.6573279,
+        "longitude": -95.989235
+      },
+      "position": 16
+    },
+    {
+      "title": "BMV Books",
+      "place_id": "ChIJPz83mZY0K4gR56TW8EZWnSk",
+      "data_cid": "2998647789586916583",
+      "address": "471 Bloor Street West (Bloor and Brunswick, between Bathurst and, Spadina Ave., Toronto, ON M5S 1X9, Kanada",
+      "link": "http://www.bmvbooks.com/",
+      "rating": 4.7,
+      "reviews": 2927,
+      "phone": "+1 416-967-5757",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "12–19"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "12–19"
+          },
+          {
+            "name": "antradienis",
+            "value": "12–19"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "12–19"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "12–19"
+          },
+          {
+            "name": "penktadienis",
+            "value": "10–23"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "10–23"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.6658602,
+        "longitude": -79.40684209999999
+      },
+      "position": 17
+    },
+    {
+      "title": "J.H. Gordon Books",
+      "place_id": "ChIJJ_k5zpGbLIgReTVyiwcYGKM",
+      "data_cid": "6694574425402886791",
+      "address": "314 King St E, Hamilton, ON L8N 1C2, Kanada",
+      "link": "http://jhgordonbooks.ca/",
+      "rating": 4.7,
+      "reviews": 64,
+      "phone": "+1 905-522-1862",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas",
+        "Naudotų knygų parduotuvė"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "antradienis",
+            "value": "10–17"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "10–17"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "10–17"
+          },
+          {
+            "name": "penktadienis",
+            "value": "10–17"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "11–17"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.253670799999995,
+        "longitude": -79.8600397
+      },
+      "position": 18
+    },
+    {
+      "title": "Ben McNally Books",
+      "place_id": "ChIJs1yWJM00K4gRgs0W7GBLO9A",
+      "data_cid": "3442074610544751230",
+      "address": "108 Queen St E, Toronto, ON M5C 1S4, Kanada",
+      "link": "https://www.benmcnallybooks.com/",
+      "rating": 4.6,
+      "reviews": 239,
+      "phone": "+1 416-361-0032",
+      "category": "Knygynas",
+      "all_categories": [
+        "Knygynas"
+      ],
+      "opening_hours": {
+        "per_day": [
+          {
+            "name": "sekmadienis",
+            "value": "Uždaryta"
+          },
+          {
+            "name": "pirmadienis",
+            "value": "10–17"
+          },
+          {
+            "name": "antradienis",
+            "value": "10–17"
+          },
+          {
+            "name": "trečiadienis",
+            "value": "10–17"
+          },
+          {
+            "name": "ketvirtadienis",
+            "value": "10–17"
+          },
+          {
+            "name": "penktadienis",
+            "value": "10–17"
+          },
+          {
+            "name": "šeštadienis",
+            "value": "10–17"
+          }
+        ]
+      },
+      "gps_coordinates": {
+        "latitude": 43.6537411,
+        "longitude": -79.3737462
+      },
+      "position": 19
+    }
+  ]
+}

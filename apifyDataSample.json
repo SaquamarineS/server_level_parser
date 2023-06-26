@@ -1,0 +1,760 @@
+
+    {
+      "searchQuery": {
+        "term": "pizza hut",
+        "url": "http://www.google.com/search?num=100&q=pizza%20hut",
+        "device": "DESKTOP",
+        "page": 1,
+        "type": "SEARCH",
+        "domain": "google.com",
+        "countryCode": "US",
+        "languageCode": null,
+        "locationUule": null,
+        "resultsPerPage": "100"
+      },
+      "url": "http://www.google.com/search?num=100&q=pizza%20hut",
+      "hasNextPage": false,
+      "serpProviderCode": "N",
+      "resultsTotal": 53,
+      "relatedQueries": [],
+      "paidResults": [
+        {
+          "title": "Pizza Hut® Online Ordering - Check Out Our Menu",
+          "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwi0p8_m2NT-AhXAFa0GHQWdDfAYABAAGgJwdg&sig=AOD64_1O5daVoVlBVsKhjSXxDQNBRsfhBg&q&adurl",
+          "displayedUrl": "",
+          "description": "",
+          "emphasizedKeywords": [],
+          "siteLinks": [
+            {
+              "title": "",
+              "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwi0p8_m2NT-AhXAFa0GHQWdDfAYABAtGgJwdg&sig=AOD64_2P8am0du6TN4A7SxJQfTjQpeAkeg&q=&ved=2ahUKEwjX4MTm2NT-AhXHLUQIHSkuA8UQh78CegQIBhAB&adurl=",
+              "description": ""
+            },
+            {
+              "title": "Apopka · 20 locations nearby",
+              "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwi0p8_m2NT-AhXAFa0GHQWdDfAYABAGGgJwdg&sig=AOD64_0l-1TIubEMeKy2_ftww-pXKcE1Wg&q=&ved=2ahUKEwjX4MTm2NT-AhXHLUQIHSkuA8UQmKoBegQIBhAM&adurl=",
+              "description": ""
+            },
+            {
+              "title": "Order Online",
+              "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwi0p8_m2NT-AhXAFa0GHQWdDfAYABABGgJwdg&sig=AOD64_2Y_12toez89FA6oM9lPMyc8vlJRg&adurl",
+              "description": "Find Our Best Deals Online Order Your Favorites & Start Saving"
+            },
+            {
+              "title": "Pizza Hut Melts™",
+              "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwi0p8_m2NT-AhXAFa0GHQWdDfAYABACGgJwdg&sig=AOD64_3Cy0vNb60gIZZy3YeJhk6B_DIO0Q&adurl",
+              "description": "Cheesy. Crispy. Loaded. Go Solo With Our New Melts."
+            },
+            {
+              "title": "Pizza Hut® Wings",
+              "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwi0p8_m2NT-AhXAFa0GHQWdDfAYABADGgJwdg&sig=AOD64_2uBYkMQ25mtC6DnxX-TSrNVF53kQ&adurl",
+              "description": "Enjoy Wings, Sides & Dips Delivered To Your Door From Pizza Hut®"
+            }
+          ]
+        }
+      ],
+      "paidProducts": [],
+      "organicResults": [
+        {
+          "title": "Pizza Hut | Delivery & Carryout - No One OutPizzas The Hut!",
+          "url": "https://www.pizzahut.com/",
+          "displayedUrl": "https://www.pizzahut.com",
+          "description": "Discover classic & new menu items, find deals and enjoy seamless ordering for delivery and carryout. No One OutPizzas the Hut®.",
+          "emphasizedKeywords": [
+            "Hut"
+          ],
+          "siteLinks": [
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "Menu",
+              "url": "https://www.pizzahut.com/menu",
+              "description": "Pizza - Sides - Pasta - Wings - Desserts - Dips - Drinks - ..."
+            },
+            {
+              "title": "Deals",
+              "url": "https://www.pizzahut.com/deals",
+              "description": "Feeding the family just got a whole lot easier. Get 2 medium 1 ..."
+            },
+            {
+              "title": "Apopka FL, 883 Semoran Blvd",
+              "url": "https://locations.pizzahut.com/fl/apopka/883-semoran-blvd",
+              "description": "Visit your local Pizza Hut at 883 Semoran Blvd in Apopka, FL to ..."
+            },
+            {
+              "title": "Locations",
+              "url": "https://locations.pizzahut.com/",
+              "description": "Browse all Pizza Hut locations in United States to find hot and ..."
+            }
+          ],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut (@pizzahut) · Twitter",
+          "url": "https://twitter.com/pizzahut?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "displayedUrl": "https://twitter.com/pizzahut",
+          "description": "",
+          "emphasizedKeywords": [],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut - Home - Apopka, Florida - Facebook",
+          "url": "https://www.facebook.com/PizzaHutApopkaSemoranBlvd/",
+          "displayedUrl": "https://www.facebook.com › ... › Pizza place",
+          "description": "Get oven-hot pizza, fast from your local Pizza Hut in Apopka. Enjoy favorites like Original Pan... 883 Semoran Blvd, Apopka, FL 32703.",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {
+            "rating": 3.6
+          }
+        },
+        {
+          "title": "Pizza Hut - Home",
+          "url": "https://www.facebook.com/pizzahutus/",
+          "displayedUrl": "https://www.facebook.com › ... › Pizza place",
+          "description": "Pizza Hut, Harahan. 32846837 likes · 23324 talking about this · 923060 were here. Pizza lover, pepperoni inhaler, literacy motivator, crust stuffer,...",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {
+            "rating": 3.4
+          }
+        },
+        {
+          "title": "PIZZA HUT, Apopka - 883 Semoran Blvd - Menu, Prices & ...",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g29171-d5088501-Reviews-Pizza_Hut-Apopka_Florida.html",
+          "displayedUrl": "https://www.tripadvisor.com › ... › Apopka Restaurants",
+          "description": "Order food online at Pizza Hut, Apopka with Tripadvisor: See 7 unbiased reviews of Pizza Hut, ranked #111 on Tripadvisor among 131 restaurants in Apopka.Order food online at Pizza Hut, Apopka with Tripadvisor: See 5 unbiased reviews of Pizza Hut, ranked #67 on Tripadvisor among 147 restaurants in Apopka.",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "Pizza Hut",
+            "Pizza Hut",
+            "Pizza Hut"
+          ],
+          "siteLinks": [
+            {
+              "title": "PIZZA HUT, Apopka - 1148 N. Rock Springs Rd.",
+              "description": "PIZZA HUT, Apopka - 1148 N. Rock Springs Rd.https://www.tripadvisor.com › ... › Apopka Restaurantshttps://www.tripadvisor.com › ... › Apopka RestaurantsOrder food online at Pizza Hut, Apopka with Tripadvisor: See 5 unbiased reviews of Pizza Hut, ranked #67 on Tripadvisor among 147 restaurants in Apopka. Rating: 4 · ‎5 reviewsPIZZA HUT, Apopka - 1148 N. Rock Springs Rd.https://www.tripadvisor.com › ... › Apopka Restaurantshttps://www.tripadvisor.com › ... › Apopka RestaurantsOrder food online at Pizza Hut, Apopka with Tripadvisor: See 5 unbiased reviews of Pizza Hut, ranked #67 on Tripadvisor among 147 restaurants in Apopka. Rating: 4 · ‎5 reviewsPIZZA HUT, Apopka - 1148 N. Rock Springs Rd.https://www.tripadvisor.com › ... › Apopka Restaurantshttps://www.tripadvisor.com › ... › Apopka RestaurantsOrder food online at Pizza Hut, Apopka with Tripadvisor: See 5 unbiased reviews of Pizza Hut, ranked #67 on Tripadvisor among 147 restaurants in Apopka. Rating: 4 · ‎5 reviewsPIZZA HUT, Apopka - 1148 N. Rock Springs Rd.https://www.tripadvisor.com › ... › Apopka Restaurantshttps://www.tripadvisor.com › ... › Apopka RestaurantsPIZZA HUT, Apopka - 1148 N. Rock Springs Rd.https://www.tripadvisor.com › ... › Apopka Restaurantshttps://www.tripadvisor.com › ... › Apopka Restaurantshttps://www.tripadvisor.com › ... › Apopka Restaurantshttps://www.tripadvisor.com › ... › Apopka Restaurantshttps://www.tripadvisor.com › ... › Apopka Restaurantshttps://www.tripadvisor.com › ... › Apopka Restaurantshttps://www.tripadvisor.com › ... › Apopka RestaurantsOrder food online at Pizza Hut, Apopka with Tripadvisor: See 5 unbiased reviews of Pizza Hut, ranked #67 on Tripadvisor among 147 restaurants in Apopka.Order food online at Pizza Hut, Apopka with Tripadvisor: See 5 unbiased reviews of Pizza Hut, ranked #67 on Tripadvisor among 147 restaurants in Apopka. Rating: 4 · ‎5 reviews Rating: 4 · ‎5 reviews"
+            }
+          ],
+          "productInfo": {
+            "rating": 2.5,
+            "numberOfReviews": 7
+          }
+        },
+        {
+          "title": "Pizza Hut 🍕 (@pizzahut) • Instagram photos and videos",
+          "url": "https://www.instagram.com/pizzahut/?hl=en",
+          "displayedUrl": "https://www.instagram.com › pizzahut",
+          "description": "2M Followers, 1365 Following, 2163 Posts - See Instagram photos and videos from Pizza Hut (@pizzahut)",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "pizzahut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut",
+          "url": "https://en.wikipedia.org/wiki/Pizza_Hut",
+          "displayedUrl": "https://en.wikipedia.org › wiki › Pizza_Hut",
+          "description": "Pizza Hut is an American multinational restaurant chain and international franchise founded in 1958 in Wichita, Kansas by Dan and Frank Carney.",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut",
+          "url": "https://www.yum.com/company/our-brands/pizza-hut/",
+          "displayedUrl": "https://www.yum.com › company › our-brands › pizz...",
+          "description": "There's nothing cookie-cutter about Pizza Hut. Not our pizzas. Not our people. And definitely not the way we live life. Around here, we don't settle for ...",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut - Delivery & Takeout on the App Store",
+          "url": "https://apps.apple.com/us/app/pizza-hut-delivery-takeout/id321560858",
+          "displayedUrl": "https://apps.apple.com › app › pizza-hut-delivery-take...",
+          "description": "Download the official Pizza Hut app for the easiest way to order your favorite pizza, wings, desserts and more! We've added contactless ordering features, ...",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {
+            "rating": 4.7,
+            "numberOfReviews": 3402372
+          }
+        },
+        {
+          "title": "Pizza Hut - Food Delivery & Ta - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.yum.pizzahut&hl=en_US&gl=US",
+          "displayedUrl": "https://play.google.com › store › apps › details › id=c...",
+          "description": "Download the official Pizza Hut app for the easiest way to order your favorite pizza, wings, desserts and more! We've added contactless ordering features, ...",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {
+            "rating": 4.3
+          }
+        },
+        {
+          "title": "Pizza Hut",
+          "url": "https://www.youtube.com/user/pizzahut",
+          "displayedUrl": "https://www.youtube.com › user › pizzahut",
+          "description": "Welcome to the official YouTube channel of Pizza Hut, created to prove no one has better pizzas, no one has more stuff in their crust and No One OutPizzas ...",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Trying the Pizza Hut inside of Target lol MUKBANG ... - YouTube",
+          "url": "https://www.youtube.com/watch?v=4EoyOJpwzfk",
+          "displayedUrl": "https://www.youtube.com › watch",
+          "description": "",
+          "emphasizedKeywords": [],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "We Opened A Real Chick-fil-A and Pizza Hut In ... - YouTube",
+          "url": "https://www.youtube.com/watch?v=6N9KA5Enm-Y",
+          "displayedUrl": "https://www.youtube.com › watch",
+          "description": "",
+          "emphasizedKeywords": [],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "BOOK IT! for Parents | The Pizza Hut BOOK IT! Program",
+          "url": "https://www.bookitprogram.com/book-it-for-parents",
+          "displayedUrl": "https://www.bookitprogram.com › book-it-for-parents",
+          "description": "When they meet their monthly reading goal, they'll receive a free one-topping Personal Pan Pizza® from Pizza Hut! We'll also share fun activities and book ...",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut (@pizzahut) Official",
+          "url": "https://www.tiktok.com/@pizzahut?lang=en",
+          "displayedUrl": "https://www.tiktok.com › @pizzahut",
+          "description": "Pizza Hut (@pizzahut) on TikTok | 2.8M Likes. 411.2K Followers. I'd eat me.Watch the latest video from Pizza Hut (@pizzahut).",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "pizzahut",
+            "Pizza Hut",
+            "pizzahut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut of Fort Wayne",
+          "url": "https://www.pizzahutfwi.com/",
+          "displayedUrl": "https://www.pizzahutfwi.com",
+          "description": "Pizza Hut of Fort Wayne. Home · About · Jobs & Careers · Menu. Community. Book It! Philanthropy · Fundraising Opportunities.",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut Museum",
+          "url": "https://www.wichita.edu/museums/pizzahutmuseum/index.php",
+          "displayedUrl": "https://www.wichita.edu › museums › pizzahutmuseum",
+          "description": "Located on Wichita State's campus, the original Pizza Hut building is now a free Pizza Hut museum that is open to the public.",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut",
+          "url": "https://www.linkedin.com/company/pizza-hut",
+          "displayedUrl": "https://www.linkedin.com › company › pizza-hut",
+          "description": "May 1, 2006Pizza Hut™ is committed to breakthrough innovation and the success of our employees. From our world class operations to our passionate ...",
+          "date": "2006-05-01T12:00:00.000Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "May 1, 2006 —",
+            "rawText": "May 1, 2006 —"
+          }
+        },
+        {
+          "title": "PIZZA HUT - 14 Reviews - 1148 N Rock Springs Rd, ... - Yelp",
+          "url": "https://www.yelp.com/biz/pizza-hut-apopka-2",
+          "displayedUrl": "https://www.yelp.com › ... › Pizza › Pizza Hut",
+          "description": "14 reviews of Pizza Hut \"Horrible service I stay literally 3 miles away and it took them an hour and a half to bring me one large pizza and then it was cold ...",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {
+            "rating": 1.5,
+            "numberOfReviews": 14,
+            "price": 10
+          }
+        },
+        {
+          "title": "Pizza Hut, 883 Semoran Blvd, Apopka, FL, Restaurants",
+          "url": "https://www.mapquest.com/us/florida/pizza-hut-643277819",
+          "displayedUrl": "https://www.mapquest.com › ... › Florida › Apopka",
+          "description": "Get directions, reviews and information for Pizza Hut in Apopka, FL. You can also find other Restaurants on MapQuest.",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut Delivery Menu | Order Online | 12195 S Apopka ...",
+          "url": "https://www.grubhub.com/restaurant/pizza-hut-12195-s-apopka-vineland-rd-orlando/3091997",
+          "displayedUrl": "https://www.grubhub.com › ... › Cypress Pointe Resort",
+          "description": "Order delivery or pickup from Pizza Hut in Orlando! View Pizza Hut's April 2023 deals and menus. Support your local restaurants with Grubhub!",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "Pizza Hut's"
+          ],
+          "siteLinks": [],
+          "productInfo": {
+            "rating": 3.4
+          }
+        },
+        {
+          "title": "Pizza Hut - Full Menu Nutrition",
+          "url": "https://www.nutritionix.com/pizza-hut/menu/premium",
+          "displayedUrl": "https://www.nutritionix.com › menu › premium",
+          "description": "Apr 18, 2023Gluten Free Crust. 1 serving = 1 slice = 1/8 of pizza. While Pizza Hut® is proud to offer pizzas made with Udi's® Gluten-Free ...",
+          "date": "2023-04-18T12:00:00.000Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "Apr 18, 2023 —",
+            "rawText": "Apr 18, 2023 —"
+          }
+        },
+        {
+          "title": "Pizza Hut Introduces Savory New Menu Item",
+          "url": "https://parade.com/food/pizza-hut-introduces-savory-cheesesteak-menu-items-may-2023",
+          "displayedUrl": "https://parade.com › Food & Drink",
+          "description": "8 hours agoPizza Hut is adding two new items, a cheesesteak pizza and melt, to the menu for the first time nationally, starting on May 2.",
+          "date": "2023-05-01T09:57:05.652Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "8 hours ago —",
+            "rawText": "8 hours ago —"
+          }
+        },
+        {
+          "title": "Pizza Hut : Alexa Skills",
+          "url": "https://www.amazon.com/Pizza-Hut/dp/B01MSXEBMC",
+          "displayedUrl": "https://www.amazon.com › Pizza-Hut",
+          "description": "Get a pizza delivered to your door without even lifting a finger. With the Pizza Hut skill for Alexa, you can browse and order from a select menu, ...",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Active Pizza Hut Coupons & Deals - 50% OFF May 2023",
+          "url": "https://coupons.cnn.com/pizzahut",
+          "displayedUrl": "https://coupons.cnn.com › pizzahut",
+          "description": "Choose from 36 Pizza Hut coupon codes in May 2023. Coupons for $10 OFF & more ✓ Verified & tested today!",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut Delivery in Orlando - Menu & Prices",
+          "url": "https://www.ubereats.com/brand-city/orlando-fl/pizza-hut",
+          "displayedUrl": "https://www.ubereats.com › brand-city › orlando-fl",
+          "description": "Order Pizza Hut delivery in Orlando. Have your favorite Pizza Hut menu items delivered from a Pizza Hut near you.",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "Pizza Hut",
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut Introduces New Cheesesteak Pizza And New ...",
+          "url": "https://www.chewboom.com/2023/05/01/pizza-hut-introduces-new-cheesesteak-pizza-and-new-cheesesteak-melt/",
+          "displayedUrl": "https://www.chewboom.com › Archives",
+          "description": "8 hours agoFor the first time ever, Pizza Hut is featuring sirloin steak on its menu with the introduction of the new Cheesesteak Pizza and new ...",
+          "date": "2023-05-01T09:57:05.664Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "8 hours ago —",
+            "rawText": "8 hours ago —"
+          }
+        },
+        {
+          "title": "Pizza Hut now open in Buffalo-area",
+          "url": "https://www.wgrz.com/article/money/business/pizza-hut-now-open-in-buffalo-delaware/71-7825336d-e033-4e41-92b5-30f83ab282e8",
+          "displayedUrl": "https://www.wgrz.com › article › money › business",
+          "description": "Apr 11, 2023The construction company that built the location on Delaware Avenue confirmed the soft opening of Pizza Hut.",
+          "date": "2023-04-11T12:00:00.000Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "Apr 11, 2023 —",
+            "rawText": "Apr 11, 2023 —"
+          }
+        },
+        {
+          "title": "Pizza Hut Coupons, Coupon Codes & Deals - May 2023",
+          "url": "https://www.groupon.com/coupons/pizza-hut",
+          "displayedUrl": "https://www.groupon.com › ... › Food & Drink › Pizza",
+          "description": "Save with one of our top Pizza Hut Coupons for May 2023: Super Offer. Discover 27 tested and verified Pizza Hut Coupon Codes and Deals, courtesy of Groupon.",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Order Online | Pizza Hut NZ",
+          "url": "https://www.pizzahut.co.nz/order/pizzas",
+          "displayedUrl": "https://www.pizzahut.co.nz › order › pizzas",
+          "description": "Order delicious large pizza from $5. Try our Margherita, Pepperoni, Hawaiian, Vegan, Itallian, Vegetarian, Cheese, Meat Lovers and Seafood options.",
+          "emphasizedKeywords": [
+            "pizza"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut Coupons - Get 30% OFF in May 2023",
+          "url": "https://www.coupons.com/coupon-codes/pizzahut",
+          "displayedUrl": "https://www.coupons.com › All stores",
+          "description": "Save with hand-picked Pizza Hut coupon codes from Coupons.com. Use one of our 29 codes and deals for free shipping, 50% OFF, and more today!",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "30% Off Pizza Hut Coupons, Promo Codes, Deals 2023",
+          "url": "https://www.retailmenot.com/view/pizzahut.com",
+          "displayedUrl": "https://www.retailmenot.com › Restaurants › Pizza",
+          "description": "Get the best Pizza Hut promo codes & specials to save on your order of pizzas, wings, sides, drinks & desserts for May 2023.",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {
+            "rating": 3.9,
+            "numberOfReviews": 52
+          }
+        },
+        {
+          "title": "Pizza Hut introduces sirloin steak for limited time",
+          "url": "https://www.pizzamarketplace.com/news/pizza-hut-introduces-sirloin-steak-for-limited-time/",
+          "displayedUrl": "https://www.pizzamarketplace.com › news › pizza-hut...",
+          "description": "4 hours agoPizza Hut has introduced cheesesteak to its menu on a pizza and in one of the brand's signature Melts. The menu items are available ...",
+          "date": "2023-05-01T13:57:05.677Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "4 hours ago —",
+            "rawText": "4 hours ago —"
+          }
+        },
+        {
+          "title": "PIZZA HUT BRINGS SIRLOIN STEAK TO RESTAURANTS ...",
+          "url": "https://www.prnewswire.com/news-releases/pizza-hut-brings-sirloin-steak-to-restaurants-nationally-for-the-first-time-with-two-new-menu-items-cheesesteak-pizza-and-cheesesteak-melts-launches-pizza-hautes-dinner-series-with-chain-301811681.html",
+          "displayedUrl": "https://www.prnewswire.com › news-releases › pizza-h...",
+          "description": "8 hours agoPRNewswire/ -- Pizza Hut is introducing a new, craveable offering to its menu, Cheesesteak. The pizza destination is bringing grilled ...",
+          "date": "2023-05-01T09:57:05.678Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "8 hours ago —",
+            "rawText": "8 hours ago —"
+          }
+        },
+        {
+          "title": "Pizza Hut is bringing cheesesteak to the menu",
+          "url": "https://restaurantbusinessonline.com/food/pizza-hut-bringing-cheesesteak-menu",
+          "displayedUrl": "https://restaurantbusinessonline.com › food › pizza-hu...",
+          "description": "8 hours agoPizza Hut is bringing grilled sirloin steak strips to its menu starting Tuesday for a limited time. The new meat option will be available in a ...",
+          "date": "2023-05-01T09:57:05.679Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "8 hours ago —",
+            "rawText": "8 hours ago —"
+          }
+        },
+        {
+          "title": "Pizza Hut's Name Was Created Simply Out Of Convenience",
+          "url": "https://www.thedailymeal.com/1269211/pizza-hut-name-created-convenience/",
+          "displayedUrl": "https://www.thedailymeal.com › ... › Pizza Hut",
+          "description": "13 hours agoPizza Hut sign outside restaurant Jasni/Shutterstock ... The time(s) when Pizza Hut tried to change its name. Pizza Hut's 'Pasta Hut' ...",
+          "date": "2023-05-01T04:57:05.684Z",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "Pizza Hut",
+            "Pizza Hut's"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "13 hours ago —",
+            "rawText": "13 hours ago —"
+          }
+        },
+        {
+          "title": "Pizza Hut Brings Cheesesteak to Menu",
+          "url": "https://www.qsrmagazine.com/news/pizza-hut-brings-cheesesteak-menu",
+          "displayedUrl": "https://www.qsrmagazine.com › news › pizza-hut-brin...",
+          "description": "6 hours agoPizza Hut is introducing a new, craveable offering to its menu, Cheesesteak. The pizza destination is bringing grilled sirloin steak to a ...",
+          "date": "2023-05-01T11:57:05.685Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "6 hours ago —",
+            "rawText": "6 hours ago —"
+          }
+        },
+        {
+          "title": "Pizza Hut EGYPT | Pizza Delivery Near You | Order Online",
+          "url": "https://www.egypt.pizzahut.me/",
+          "displayedUrl": "https://www.egypt.pizzahut.me",
+          "description": "Pizza Hut, one of the most popular Pizza destinations in EGYPT is now online. Order Pizza online that is both delicious and value for money.",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Grilled sirloin steak in the spotlight at Pizza Hut for a limited ...",
+          "url": "https://www.pennlive.com/food/2023/05/grilled-sirloin-steak-in-the-spotlight-at-pizza-hut-for-a-limited-time.html",
+          "displayedUrl": "https://www.pennlive.com › food › 2023/05 › grilled-sirl...",
+          "description": "6 hours agoPizza Hut's new cheesesteak pizza and cheesesteak melts will be available nationwide starting on May 2, 2023. Rewards members ordering on ...",
+          "date": "2023-05-01T11:57:05.689Z",
+          "emphasizedKeywords": [
+            "Pizza Hut's"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "6 hours ago —",
+            "rawText": "6 hours ago —"
+          }
+        },
+        {
+          "title": "Pizza Hut Cheesesteak Pizza and Melts are a slice of flavor ...",
+          "url": "https://foodsided.com/2023/05/01/pizza-hut-cheesesteak-pizza-melts/",
+          "displayedUrl": "https://foodsided.com › 2023/05/01 › pizza-hut-chees...",
+          "description": "7 hours agoThe new Pizza Hut Cheesesteak Pizza and Melts might be the hearty slice that have people trading that classic pepperoni pizza for a new ...",
+          "date": "2023-05-01T10:57:05.690Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "7 hours ago —",
+            "rawText": "7 hours ago —"
+          }
+        },
+        {
+          "title": "Pizza Hut Taiwan's New Ultimate Seafood Pizza is Heart- ...",
+          "url": "https://www.brandeating.com/2023/04/pizza-hut-taiwan-new-ultimate-seafood-pizza-heart-shaped-with-whole-squid.html",
+          "displayedUrl": "https://www.brandeating.com › 2023/04 › pizza-hut-ta...",
+          "description": "6 days agoIn addition to the squid, Pizza Hut Taiwan's Ultimate Seafood also comes topped with Norwegian salmon, scallops with eggs, scallops, onions, ...",
+          "date": "2023-04-25T17:57:05.696Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "6 days ago —",
+            "rawText": "6 days ago —"
+          }
+        },
+        {
+          "title": "Pizza Hut Is Adding Sirloin Steak To the Menu",
+          "url": "https://www.eatthis.com/pizza-hut-launching-cheesesteak-pizza-melt/",
+          "displayedUrl": "https://www.eatthis.com › Restaurants",
+          "description": "3 hours agoMost consumers likely wouldn't think of Pizza Hut as anything other than a destination for quick, convenient pizzas and breadsticks.",
+          "date": "2023-05-01T14:57:05.697Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "3 hours ago —",
+            "rawText": "3 hours ago —"
+          }
+        },
+        {
+          "title": "Copycat Pizza Hut Original Pan Pizza Recipe - CDKitchen",
+          "url": "https://www.cdkitchen.com/recipes/recs/525/Pizza_Hut_Original_Pan_Pizza41605.shtml",
+          "displayedUrl": "https://www.cdkitchen.com › recipes › recs › Pizza_Hut_...",
+          "description": "Make your own Pizza Hut pan pizza at home. This copycat recipe for the crust and sauce tastes just like the pizzas you get at Pizza Hut.",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "How Zizzi and Pizza Hut are among more than 500 family- ...",
+          "url": "https://www.dailymail.co.uk/news/article-12016959/How-Zizzi-Pizza-Hut-500-family-friendly-eateries-shut-2018.html",
+          "displayedUrl": "https://www.dailymail.co.uk › news › article-12016959",
+          "description": "1 day agoItalian chains were the titans of the British restaurant industry, with firms like Pizza Express, Prezzo and Pizza Hut dominating high ...",
+          "date": "2023-04-30T17:57:05.699Z",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {},
+          "personalInfo": {
+            "location": "1 day ago —",
+            "rawText": "1 day ago —"
+          }
+        },
+        {
+          "title": "Pizza hut order online delivery",
+          "url": "https://50jahre-freizeitpark.de/blog/pizza-hut-order-online-delivery.html",
+          "displayedUrl": "https://50jahre-freizeitpark.de › blog › pizza-hut-order...",
+          "description": "Pizza hut order online delivery How do I order Pizza Hut (1794 Liverpool Road) delivery online in Pickering? There are 2 ways to place an order on Uber ...",
+          "emphasizedKeywords": [
+            "Pizza hut",
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut TT",
+          "url": "https://www.pizzahut-tt.com/",
+          "displayedUrl": "https://www.pizzahut-tt.com",
+          "description": "Order Pizza Hut here for delivery or pick up in store! Find our offers, menus and shops. Pizza Hut: We Always Deliver More.",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut | Buy 1 Family Pizza and Get 1 Free",
+          "url": "https://www.pizzahutbd.com/",
+          "displayedUrl": "https://www.pizzahutbd.com",
+          "description": "Order delicious pizza, pasta, appetizers & more online for carryout or delivery from a Pizza Hut store near you. View menu, find store locations, and more.",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut",
+          "url": "https://www.pizzahutcr.com/",
+          "displayedUrl": "https://www.pizzahutcr.com",
+          "description": "¿CÓMO CONOCES PIZZAHUT? ¿CUÁL ES LA OPCIÓN DE TU INTERÉS? {{appSettings.Palabras.POPUP_SIGNIN_TC}}. {{appSettings.Palabras.ATTENTION}}. {{appSettings.",
+          "emphasizedKeywords": [
+            "PIZZAHUT"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut Colombia",
+          "url": "https://www.pizzahut.com.co/",
+          "displayedUrl": "https://www.pizzahut.com.co",
+          "description": "Pide Pizza Hut aquí para domicilio o para recoger en tienda! Encuentra nuestras ofertas, menús y tiendas. Pizza Hut: Siempre Entregamos Más.",
+          "emphasizedKeywords": [
+            "Pizza Hut",
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "Pizza Hut",
+          "url": "https://www.pizzahutrd.com/",
+          "displayedUrl": "https://www.pizzahutrd.com",
+          "description": "Pizza Hut República Dominicana.",
+          "emphasizedKeywords": [
+            "Pizza Hut"
+          ],
+          "siteLinks": [],
+          "productInfo": {}
+        },
+        {
+          "title": "California. Court of Appeal (2nd Appellate District). ...",
+          "url": "https://books.google.com/books?id=BxX-GDrtrgsC&pg=PT16&lpg=PT16&dq=pizza+hut&source=bl&ots=_O6abOrBK8&sig=ACfU3U0_C6-jfHWgjU4r1M1H9N2Z4jDUIg&hl=en&sa=X&ved=2ahUKEwjX4MTm2NT-AhXHLUQIHSkuA8UQ6AF6BQiVAhAD",
+          "displayedUrl": "https://books.google.com › books",
+          "description": "",
+          "emphasizedKeywords": [],
+          "siteLinks": [],
+          "productInfo": {}
+        }
+      ],
+      "peopleAlsoAsk": [],
+      "customData": {
+        "pageTitle": "pizza hut - Google Search"
+      }
+    }
